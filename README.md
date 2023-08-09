@@ -2,6 +2,8 @@
 practicing python
 This challenge is use to analyze the fiancial reccords of the company
 Given the dataset it should answer the following:
+
+
 The total number of months included in the dataset
 
 The net total amount of "Profit/Losses" over the entire period
